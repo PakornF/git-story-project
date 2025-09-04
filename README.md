@@ -1,1 +1,1 @@
-# git-story-project
+Once upon a time, there is a small house
